@@ -1,8 +1,5 @@
 export class Cliente{
-    nome;
-    _cpf;
-    _rg;
-
+    
     constructor(nome, cpf, rg){
         this.nome = nome;
         this._cpf = cpf;
